@@ -64,7 +64,7 @@ banner() {
                 ${BLUE}┃┃┃┃┃┣━━┫╭━━┫╭╮┣┫━━┫╭╮┃
                 ${BLUE}┃┃┃┃┃┣━━┫┃╱╱┃┃┃┃┣━━┃┃┃┃
                 ${BLUE}╰╯╰╯╰╯╱╱╰╯╱╱╰╯╰┻┻━━┻╯╰╯            
-                ${RED} MANOJ (Sri Lanka)
+                ${WHITE}    MANOJ (Sri Lanka)
                                                   
 		${CYAN}Version : 1.0
 		
@@ -76,8 +76,8 @@ banner() {
 banner_small() {
 	cat <<- EOF
                 ${BLUE}█▀▄▀█ ▄▄ █▀█ █░█ █ █▀ █░█
-                ${BLUE} █░▀░█ ░░ █▀▀ █▀█ █ ▄█ █▀█
-		${RED}  MANOJ [Sri Lanka]
+                ${BLUE}█░▀░█ ░░ █▀▀ █▀█ █ ▄█ █▀█
+		${WHITE}          MANOJ [Sri Lanka]
 	EOF
 }
 
@@ -178,12 +178,12 @@ msg_exit() {
 about() {
 	{ clear; banner; echo; }
 	cat <<- EOF
-		${GREEN}Author   ${RED}:  ${ORANGE}X PHANTOM ${RED}[ ${ORANGE}X PH4N70M ${RED}]
+		${GREEN}Author   ${RED}:  ${ORANGE}MANOJ ${RED}[ ${ORANGE}Sri Lanka ${RED}]
 		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/hackerxphantom
 		${GREEN}Join us  ${RED}:  ${CYAN}https://bit.ly/3PV3S3r
-		${GREEN}Version  ${RED}:  ${ORANGE}2.2
+		${GREEN}Version  ${RED}:  ${ORANGE}1.0
 
-		${REDBG}${WHITE} Thanks : X PHANTOM,X PH4N70M ${RESETBG}
+		${REDBG}${WHITE} Thanks : MANOJ ${RESETBG}
 								  
 		${RED}Warning:${WHITE}
 		${CYAN}This Tool is made for educational purpose only ${RED}!${WHITE}
